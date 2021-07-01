@@ -1,4 +1,5 @@
 exports.diff = (date1, date2) => {
+    // Conversion en Date
     var t1 = new Date(date1);
     var t2 = new Date(date2);
     var diffMilliSeconde = Math.abs(t1.getTime() - t2.getTime()); // Difference en milliSeconde
