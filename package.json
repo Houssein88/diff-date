@@ -1,29 +1,29 @@
 {
-  "name": "diff-date",
-  "version": "1.0.0",
-  "description": "This package allows you to calculate the difference between two dates",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Houssein88/diff-date.git"
-  },
-  "keywords": [
-    "Houssein88",
-    "sydcodeur",
-    "adhirikah",
-    "fousseni",
-    "difference",
-    "date",
-    "npm",
-    "diff-date"
-  ],
-  "author": "houssein88 <fadhirikah92@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Houssein88/diff-date/issues"
-  },
-  "homepage": "https://github.com/Houssein88/diff-date#readme"
+    "name": "diff-between-dates",
+    "version": "1.0.0",
+    "description": "This package allows you to calculate the difference between two dates",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Houssein88/diff-date.git"
+    },
+    "keywords": [
+        "Houssein88",
+        "sydcodeur",
+        "adhirikah",
+        "fousseni",
+        "difference",
+        "date",
+        "npm",
+        "diff-date"
+    ],
+    "author": "houssein88 <fadhirikah92@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Houssein88/diff-date/issues"
+    },
+    "homepage": "https://github.com/Houssein88/diff-date#readme"
 }
